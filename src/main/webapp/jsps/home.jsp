@@ -12,7 +12,7 @@
 <h1 align="center">Landmark Software solution Global offcie</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training platform for DevOps and Cloud Engineers Globally. 
-	We offer interview preparations and job assitance.
+	We offer interview preparations and job assitance, we believe in active learning.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS. So True, The Place to be. KEY</h2>
 <hr>
 <div style="text-align: center;">
